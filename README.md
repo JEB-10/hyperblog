@@ -10,6 +10,6 @@ In this course we can find:
 * GitHub workflow
 * True love for best practices
 * My multiple personalities
-*Created by the amazing eddev10
+* Created by the amazing eddev10
 
 And as a reminder: **This readme.md is a joke** Designed as an example. If you get this far, DO NOT TAKE IT SERIOUSLY.
