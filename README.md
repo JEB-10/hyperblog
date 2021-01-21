@@ -11,5 +11,6 @@ GitHub workflow
 True love for best practices
 My multiple personalities
 Created by the amazing eddev10
+Include Windows, Linux and Mac Examples
 
 And as a reminder: **This readme.md is a joke** Designed as an example. If you get this far, DO NOT TAKE IT SERIOUSLY.
