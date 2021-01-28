@@ -1,8 +1,8 @@
 # hyperblog
 An amazing blog for Git and Github course.
 
->The git and GitHub course of Platzi it's a skill that I needed to improve my professional profile and increase my salary.
-> - @eddev10
+>The git and GitHub course of edev10 it's a skill that I needed to improve my professional profile and increase my salary.
+> - @rick_sanchez
 
 In this course we can find:
 
@@ -10,7 +10,7 @@ In this course we can find:
 * GitHub workflow
 * True love for best practices
 * My multiple personalities
-* Created by the amazing eddev10
+* Created by the amazing @edev10
 * Include Windows, Linux and Mac Examples
 * Available for all ages
 
